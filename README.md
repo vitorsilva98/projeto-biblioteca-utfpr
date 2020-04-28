@@ -14,6 +14,8 @@ Como sugestão estão relacionados abaixo cinco papéis para serem desempenhados
 
 O objetivo é implementar* uma aplicação para o seguinte sistema de empréstimos/devolução de livros em uma biblioteca:
 
+![Diagrama de classes](https://github.com/vitorsilva98/projeto-biblioteca-utfpr/blob/master/Documentos%20Diversos/DiagramaDeClasses.JPG)
+
 1 - É importante registrar a realização das tarefas, seja comparticipação em Fórum de Discussão ou Chat;
 
 2 - Algumas atividades precisam ser executadas:
